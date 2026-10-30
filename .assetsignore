@@ -1,0 +1,8 @@
+.git
+.gitignore
+.assetsignore
+README.txt
+wrangler.jsonc
+node_modules
+.wrangler
+*.php
